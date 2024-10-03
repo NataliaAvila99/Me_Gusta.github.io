@@ -1,0 +1,161 @@
+.titulo {
+    height: 80px;
+    width: 1890px;
+    display: flex;
+    position: relative;
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+.titulo h1 {
+    margin-top: 20px;
+    margin-left: 900px;
+    font-family: sans-serif;
+}
+
+h1{
+    font-family: sans-serif;
+    margin-left: 400px;
+    margin-top: 50px;
+    font-weight: bold;
+}
+
+.perfil h2{
+    font-family: sans-serif;
+    margin-left: 60px;
+    margin-top: 80px;
+    
+}
+
+.perfil img {
+    border-color: transparent;
+    height: 150px;
+    width: 150px;
+    border-radius: 100px;
+    margin-left: 55px;
+    margin-top: 100px;
+}
+
+.perfil {
+    border: 3px solid black;
+    height: 360px;
+    width: 250px;
+    margin-top: 40px;
+    margin-left: 50px;
+    background-color: white;
+    border-radius: 10px;
+}
+
+.amigos1 {
+    background-color: aliceblue;
+    border: 3px solid black;
+    height: 170px;
+    width: 1450px;
+    margin-top: -365px;
+    margin-left: 400px;
+    border-radius: 10px;
+}
+
+.amigos1 h1 {
+    margin: 20px 0px 0px 20px;
+}
+
+.amigos1 p {
+    margin: 40px 0px 0px 20px;
+    font-weight: 500;
+    font-family: sans-serif;
+}
+
+.amigos1 button {
+    margin-left: 1350px;
+    transform: translate(0px, -140px);
+    padding: 10px 20px 10px 20px;
+    font-size: medium;
+    background-color: rgb(255, 216, 43);
+    border: none;
+    border-radius: 5px;
+}
+
+.amigos2 {
+    background-color: aliceblue;
+    border: 3px solid black;
+    height: 170px;
+    width: 1450px;
+    margin-top: 20px;
+    margin-left: 400px;
+    border-radius: 10px;
+}
+
+.amigos2 h1 {
+    margin: 20px 0px 0px 20px;
+}
+
+.amigos2 p {
+    margin: 40px 0px 0px 20px;
+    font-weight: 500;
+    font-family: sans-serif;
+}
+
+.amigos2 button {
+    margin-left: 1350px;
+    transform: translate(0px, -140px);
+    padding: 10px 20px 10px 20px;
+    font-size: medium;
+    background-color: rgb(255, 216, 43);
+    border: none;
+    border-radius: 5px;
+}
+
+.amigos3 {
+    background-color: aliceblue;
+    border: 3px solid black;
+    height: 170px;
+    width: 1450px;
+    margin-top: 20px;
+    margin-left: 400px;
+    border-radius: 10px;
+}
+
+.amigos3 h1 {
+    margin: 20px 0px 0px 20px;
+}
+
+.amigos3 p {
+    margin: 40px 0px 0px 20px;
+    font-weight: 500;
+    font-family: sans-serif;
+}
+
+.amigos3 button {
+    margin-left: 1350px;
+    transform: translate(0px, -140px);
+    padding: 10px 20px 10px 20px;
+    font-size: medium;
+    background-color: rgb(255, 216, 43);
+    border: none;
+    border-radius: 5px;
+}
+
+.amigos1 ul {
+    font-family: sans-serif;
+    list-style-type: none;
+    margin-left: 1240px;
+    transform: translate(0px, -90px);
+    display: flex;
+}
+
+.amigos2 ul {
+    font-family: sans-serif;
+    list-style-type: none;
+    margin-left: 1240px;
+    transform: translate(0px, -90px);
+    display: flex;
+}
+
+.amigos3 ul {
+    font-family: sans-serif;
+    list-style-type: none;
+    margin-left: 1240px;
+    transform: translate(0px, -90px);
+    display: flex;
+    
+}
